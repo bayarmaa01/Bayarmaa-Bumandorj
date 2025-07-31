@@ -1,26 +1,50 @@
-# Bayarmaa-Bumandorj
-# Баярмаа Бумандорж 👋
+# 👋 Hi, I'm Bayarmaa Bumandorj
 
-🎓 DevOps enthusiast | Final Year CSE Student at LPU  
-🌱 Currently working on CI/CD, Docker, Kubernetes & Automation  
-📌 From Mongolia 🇲🇳 | Studying in India 🇮🇳
+🎓 Final Year CSE Student | Lovely Professional University (India)  
+🌍 From Mongolia 🇲🇳  
+💻 Passionate about **DevOps**, **Automation**, and **Cloud Infrastructure**  
+🔍 Looking for freelance & remote opportunities to grow and contribute!
+
+---
 
 ## 🚀 Projects
 
-- [CI/CD Pipeline Demo](https://github.com/bayarmaa-dev/ci-cd-demo)
-- [Ansible Automation](https://github.com/bayarmaa-dev/ansible-automation)
-- [Docker + Node.js App](https://github.com/bayarmaa-dev/docker-node-app)
+### 📦 CI/CD Pipeline for Automated Deployment
+- 🔗 [GitHub Repo](https://github.com/bayarmaa01/ci-cd-pipeline)
+- ⚙️ Technologies: GitHub Actions, Docker, Kubernetes, Jenkins
+- 💡 Description: Developed a CI/CD pipeline to build, test, and deploy a web app using automation tools.
+
+### 🐧 Linux Automation Scripts
+- 🔗 [GitHub Repo](https://github.com/bayarmaa01/linux-scripts)
+- ⚙️ Technologies: Bash, Cron, systemctl, log rotation
+- 💡 Description: Created scripts to automate Linux system tasks like backups, user management, and monitoring.
+
+### 🤖 Ansible Automation Playbooks
+- 🔗 [GitHub Repo](https://github.com/bayarmaa01/ansible-automation)
+- ⚙️ Technologies: Ansible, YAML
+- 💡 Description: Automated configuration management using Ansible playbooks.
+
+---
 
 ## 🛠️ Skills
 
-- **DevOps Tools:** Git, GitHub Actions, Jenkins
-- **Containers:** Docker, DockerHub
-- **Cloud & Infra:** Kubernetes, AWS basics
-- **Automation:** Bash, Ansible
-- **Monitoring:** Prometheus, Grafana
-- **OS & Shell:** Linux, Ubuntu
+- **DevOps Tools**: Git, GitHub Actions, Jenkins  
+- **Containers**: Docker, Docker Compose  
+- **Automation**: Bash, Cron, Ansible  
+- **Cloud & Infra**: Kubernetes, AWS (Basics)  
+- **Monitoring**: Prometheus, Grafana  
+- **Operating Systems**: Ubuntu, RHEL, CentOS  
+- **Languages**: Python, Shell Scripting, C, HTML
 
-## 📫 Contact
+---
 
-- ✉️ Email: b.bayarmaa0321@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/bayarmaa-dev](https://linkedin.com/in/bayarmaa-dev)
+## 📫 Contact Me
+
+- 📧 Email: b.bayarmaa0321@gmail.com  
+- 🔗 GitHub: [github.com/bayarmaa01](https://github.com/bayarmaa01)  
+- 💼 LinkedIn: [linkedin.com/in/bayarmaa01](https://linkedin.com/in/bayarmaa01)  
+
+---
+
+> 🌟 “Always learning, always building.”
+
